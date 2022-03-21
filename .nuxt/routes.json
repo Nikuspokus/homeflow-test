@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/norauto/Documents/perso-nico/homeflow/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1e73c81a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/norauto/Documents/perso-nico/homeflow/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6d12022b"
+  }
+]
